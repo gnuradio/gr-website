@@ -1,0 +1,12 @@
+author: Tim O'Shea
+date: '2016-02-02'
+description: TensorFlow is a powerful python-numpy expression compiler which supports
+  concurrent GPP and GPU offload of large algorithms. It has been used largely in
+  the machine learning community, but has implications for...
+full_title: gnu-radio-tensorflow-blocks
+parent_folder: 2016-02-02-gnu-radio-tensorflow-blocks
+sponsored: 0
+thumbnail: https://www.gnuradio.org/wp-content/uploads/2016/03/grtfplot-270x165.png
+title: GNU Radio TensorFlow Blocks
+type: external
+url: https://oshearesearch.com/index.php/2016/02/02/gnu-radio-tensorflow-blocks/

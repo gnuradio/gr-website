@@ -1,0 +1,12 @@
+author: Tim O'Shea
+date: '2016-03-28'
+description: In an attempt to test modem performance deterministically through dropout
+  conditions and partial fades selective, we added the fading model and selective
+  fading model to GNU Radio a few years ago. Recently Bast...
+full_title: dynamic-gnu-radio-channel-model-enhancements
+parent_folder: 2016-03-28-dynamic-gnu-radio-channel-model-enhancements
+sponsored: 0
+thumbnail: https://www.gnuradio.org/wp-content/uploads/2016/03/fader_resp_plots-270x165.jpg
+title: Dynamic GNU Radio Channel Model Enhancements
+type: external
+url: https://oshearesearch.com/index.php/2016/03/28/gr-channel-model-enhancements/

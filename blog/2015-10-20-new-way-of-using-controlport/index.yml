@@ -1,0 +1,10 @@
+author: Tom Rondeau
+date: '2015-10-20'
+description: "I'd like to get us to have more blocks within the GNU Radio main source code that support configuration over ControlPort. We are going to rely heavily on ControlPort for our Android work where the Java applicat..."
+full_title: new-way-of-using-controlport
+parent_folder: 2015-10-20-new-way-of-using-controlport
+sponsored: 0
+thumbnail: https://www.gnuradio.org/wp-content/uploads/2016/03/ctrlport-270x165.png
+title: New Way of Using ControlPort
+type: external
+url: http://www.trondeau.com/blog/2015/10/16/new-way-of-using-controlport

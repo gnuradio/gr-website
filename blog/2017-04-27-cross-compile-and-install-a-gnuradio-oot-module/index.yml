@@ -1,0 +1,12 @@
+author: Philip
+date: '2017-04-27'
+description: One of the first things you should want to do with your new embedded
+  device is install a GNURadio OOT module on it and see it work. Recently I worked
+  through process with gr-air-modes and the Ettus Research E31...
+full_title: cross-compile-and-install-a-gnuradio-oot-module
+parent_folder: 2017-04-27-cross-compile-and-install-a-gnuradio-oot-module
+sponsored: 0
+thumbnail: https://www.gnuradio.org/wp-content/uploads/2016/05/gr_web.svg
+title: Cross Compile and Install a GNURadio OOT Module
+type: external
+url: http://opensdr.com/posts/cross-compile-and-install-a-gnuradio-oot-module/

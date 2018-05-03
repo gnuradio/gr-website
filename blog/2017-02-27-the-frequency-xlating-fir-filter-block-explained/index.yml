@@ -1,0 +1,11 @@
+author: "András Retzler"
+date: '2017-02-27'
+description: Ever wondered how the Frequency Translating FIR Filter block can be used?
+  Did you know it can be used as a channelizer? Check out this post to learn more...
+full_title: "frequency-xlating-fir-filter-block-explained"
+parent_folder: "2017-02-27-the-frequency-xlating-fir-filter-block-explained"
+sponsored: 0
+thumbnail: https://www.gnuradio.org/wp-content/uploads/2017/02/freq-xlating-filter-270x125.png
+title: "The Frequency Xlating FIR Filter Block Explained"
+type: external
+url: http://blog.sdr.hu/grblocks/xlating-fir.html
