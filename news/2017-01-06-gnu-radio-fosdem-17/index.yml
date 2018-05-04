@@ -3,6 +3,6 @@ date: '2017-01-06'
 description: 'GNU Radio is a major player at the SDR Devroom at FOSDEM, which takes place every year at the first weekend of February (this year, 4 & 5 February) at the Université Libre de Bruxelles, Brussels, Belgium...'
 full_title: gnu-radio-fosdem-17
 parent_folder: 2017-01-06-gnu-radio-fosdem-17
-thumbnail: https://gnuradio.org/wp-content/uploads/2016/05/gr_web.svg
+thumbnail: static/assets/imgs/gr_web.svg
 title: "GNU Radio at FOSDEM ’17, 4 & 5 February 2017"
 type: internal
