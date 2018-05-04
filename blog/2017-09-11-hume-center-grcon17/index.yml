@@ -3,7 +3,7 @@ date: '2017-09-11'
 description: ''
 full_title: hume-center-grcon17
 parent_folder: 2017-09-11-hume-center-grcon17
-thumbnail: static/assets/imgs/gr_web.svg
+thumbnail: https://www.gnuradio.org/assets/imgs/gr_web.svg
 title: Hume Center Grcon17
 type: internal
 sponsored: 1

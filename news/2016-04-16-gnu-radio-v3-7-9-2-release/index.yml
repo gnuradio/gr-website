@@ -3,6 +3,6 @@ date: '2016-04-16'
 description: 'GNU Radio release v3.7.9.2 is now available!'
 full_title: gnu-radio-v3-7-9-2-release
 parent_folder: 2016-04-16-gnu-radio-v3-7-9-2-release
-thumbnail: /assets/imgs/gr_release_web.svg
+thumbnail: https://www.gnuradio.org/assets/imgs/gr_release_web.svg
 title: GNU Radio v3.7.9.2 Release
 type: internal

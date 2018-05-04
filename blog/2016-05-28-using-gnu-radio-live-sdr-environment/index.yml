@@ -3,7 +3,7 @@ date: '2016-05-28'
 description: ''
 full_title: using-gnu-radio-live-sdr-environment
 parent_folder: 2016-05-28-using-gnu-radio-live-sdr-environment
-thumbnail: /assets/imgs/livesdr-270x165.png
+thumbnail: https://www.gnuradio.org/assets/imgs/livesdr-270x165.png
 title: Using the GNU Radio Live SDR Environment
 type: internal
 sponsored: 0

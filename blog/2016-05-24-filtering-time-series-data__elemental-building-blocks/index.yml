@@ -3,7 +3,7 @@ date: '2016-05-24'
 description: 'GNU Radio lends itself to easy, and surprisingly well-performing, signal processing operations for all kinds of time-series data. This post discusses how one can use GNU Radio and the GNU Radio'
 full_title: filtering-time-series-data__elemental-building-blocks
 parent_folder: 2016-05-24-filtering-time-series-data__elemental-building-blocks
-thumbnail: /assets/imgs/bp-to-grc-head-270x165.png
+thumbnail: https://www.gnuradio.org/assets/imgs/bp-to-grc-head-270x165.png
 title: "Elemental Building Blocks: Filtering time-series data"
 type: internal
 sponsored: 0

@@ -3,6 +3,6 @@ date: '2018-02-03'
 description: ''
 full_title: fosdem18-gnu-radio-bof
 parent_folder: 2018-02-03-fosdem18-gnu-radio-bof
-thumbnail: /assets/imgs/meetup_web.svg
+thumbnail: https://www.gnuradio.org/assets/imgs/meetup_web.svg
 title: Fosdem18 GNU Radio Bof
 type: internal

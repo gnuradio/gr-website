@@ -3,7 +3,7 @@ date: '2016-05-03'
 description: 'The GRCon Organizing Committee is very excited to announce our first Technical Proceedings to accompany GRCon16! The Proceedings will be a publication venue for technical papers in the area of applied radio tec...'
 full_title: announcing-technical-proceedings-for-grcon
 parent_folder: 2016-05-03-announcing-technical-proceedings-for-grcon
-thumbnail: /assets/imgs/proceedings-image-270x165.png
+thumbnail: https://www.gnuradio.org/assets/imgs/proceedings-image-270x165.png
 title: Announcing Technical Proceedings for GRCon
 type: internal
 sponsored: 0

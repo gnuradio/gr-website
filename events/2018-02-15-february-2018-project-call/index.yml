@@ -3,6 +3,6 @@ date: '2018-02-15'
 description: 'Dates: February 15, 2018 When: GMT 1800'
 full_title: february-2018-project-call
 parent_folder: 2018-02-15-february-2018-project-call
-thumbnail: /assets/imgs/developers_call.svg
+thumbnail: https://www.gnuradio.org/assets/imgs/developers_call.svg
 title: February 2018 Project Call
 type: internal

@@ -3,7 +3,7 @@ date: '2017-03-21'
 description: ''
 full_title: tracking-rockets-gnss-sdr
 parent_folder: 2017-03-21-tracking-rockets-gnss-sdr
-thumbnail: static/assets/imgs/gr_web.svg
+thumbnail: https://www.gnuradio.org/assets/imgs/gr_web.svg
 title: Tracking Rockets Gnss SDR
 type: internal
 sponsored: 0

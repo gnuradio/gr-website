@@ -3,6 +3,6 @@ date: '2016-03-08'
 description: 'Our popular package manager has had its first version number bump since the version 2 release. Version 2.0.1 contains a lot of fixes for bugs, most of which were reported by community members willing to try the...'
 full_title: pybombs-2-0-1-released
 parent_folder: 2016-03-08-pybombs-2-0-1-released
-thumbnail: /assets/imgs/pybombs_release_web.svg
+thumbnail: https://www.gnuradio.org/assets/imgs/pybombs_release_web.svg
 title: PyBOMBS 2.0.1 Released
 type: internal

@@ -3,7 +3,7 @@ date: '2018-02-13'
 description: ''
 full_title: fosdem-18-meeting-new-old-friends
 parent_folder: 2018-02-13-fosdem-18-meeting-new-old-friends
-thumbnail: static/assets/imgs/gr_web.svg
+thumbnail: https://www.gnuradio.org/assets/imgs/gr_web.svg
 title: Fosdem 18 Meeting New Old Friends
 type: internal
 sponsored: 0

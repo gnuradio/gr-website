@@ -3,6 +3,6 @@ date: '2017-03-27'
 description: ''
 full_title: gnu-radio-release-3-7-11-and-3-7-10-2
 parent_folder: 2017-03-27-gnu-radio-release-3-7-11-and-3-7-10-2
-thumbnail: /assets/imgs/gr_release_web.svg
+thumbnail: https://www.gnuradio.org/assets/imgs/gr_release_web.svg
 title: GNU Radio Releases 3.7.11 and 3.7.10.2
 type: internal

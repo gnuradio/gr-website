@@ -3,7 +3,7 @@ date: '2017-04-04'
 description: ''
 full_title: rohde-schwarz-engineering-competition-using-gnu-radio
 parent_folder: 2017-04-04-rohde-schwarz-engineering-competition-using-gnu-radio
-thumbnail: static/assets/imgs/gr_web.svg
+thumbnail: https://www.gnuradio.org/assets/imgs/gr_web.svg
 title: Rohde Schwarz Engineering Competition Using GNU Radio
 type: internal
 sponsored: 0

@@ -3,7 +3,7 @@ date: '2016-11-04'
 description: 'Using GNU Radio, I reverse engineered the Outernet satellite signal and built a fully working decoder. Here’s how I went from blind signal analysis to a working receiver...'
 full_title: reverse-engineering-outernet
 parent_folder: 2016-11-04-reverse-engineering-outernet
-thumbnail: /assets/imgs/outernet-descrambled-270x165.jpg
+thumbnail: https://www.gnuradio.org/assets/imgs/outernet-descrambled-270x165.jpg
 title: Reverse Engineering Outernet
 type: internal
 sponsored: 0

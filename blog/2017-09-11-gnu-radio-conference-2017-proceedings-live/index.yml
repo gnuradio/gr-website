@@ -3,7 +3,7 @@ date: '2017-09-11'
 description: ''
 full_title: gnu-radio-conference-2017-proceedings-live
 parent_folder: 2017-09-11-gnu-radio-conference-2017-proceedings-live
-thumbnail: static/assets/imgs/gr_web.svg
+thumbnail: https://www.gnuradio.org/assets/imgs/gr_web.svg
 title: GNU Radio Conference 2017 Proceedings Live
 type: internal
 sponsored: 0

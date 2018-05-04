@@ -3,6 +3,6 @@ date: '2016-07-05'
 description: 'GNU Radio v3.7.10 is available. Release notes can be found here: http://gnuradio.org/redmine/projects/gnuradio/wiki/ChangeLogV3_7_10...'
 full_title: gnu-radio-v3-7-10-release
 parent_folder: 2016-07-05-gnu-radio-v3-7-10-release
-thumbnail: /assets/imgs/gr_release_web.svg
+thumbnail: https://www.gnuradio.org/assets/imgs/gr_release_web.svg
 title: GNU Radio v3.7.10 Release
 type: internal

@@ -3,7 +3,7 @@ date: '2017-01-05'
 description: ''
 full_title: "buffers"
 parent_folder: 2017-01-05-buffers
-thumbnail: /assets/imgs/pageheader_buffer_web.svg
+thumbnail: https://www.gnuradio.org/assets/imgs/pageheader_buffer_web.svg
 title: "Behind the Veil: A Peek at GNU Radio’s Buffer Architecture"
 type: internal
 sponsored: 0

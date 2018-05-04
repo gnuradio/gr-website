@@ -3,6 +3,6 @@ date: '2017-05-17'
 description: 'We are really excited to announce that three students have been accepted to work on GNU Radio for Google’s Summer of Code 2017!'
 full_title: gsoc-2017-accepted-projects
 parent_folder: 2017-05-17-gsoc-2017-accepted-projects
-thumbnail: /assets/imgs/gsoc.png
+thumbnail: https://www.gnuradio.org/assets/imgs/gsoc.png
 title: GSOC 2017 Accepted Projects
 type: internal
