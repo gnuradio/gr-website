@@ -8,7 +8,7 @@ Please note that writing a paper for inclusion in the Proceedings is not a requi
 
 We strongly believe in authors&#8217; rights to their own work, and open access to research. As such, we encourage authors to also submit their final work to the arXiv.org open-access e-print archive. In order to submit your paper to the GRCon Proceedings, you must grant us a non-exclusive license to distribute your work by agreeing to the &#8220;GNU Radio Non-Exclusive Distribution License 1.0&#8221;, documented on the website.
 
-You can find much more information about the Proceedings, including important dates, paper templates, paper requirements, and licensing information on the website, here: [http://gnuradio.org/grcon-2016/call-for-submissions/](https://gnuradio.org/grcon-2016/call-for-submissions/)
+You can find much more information about the Proceedings, including important dates, paper templates, paper requirements, and licensing information on the website, here: http://gnuradio.org/grcon-2016/call-for-submissions/
 
 If you have any questions, please let us know! Otherwise, keep the abstract submissions coming, and we look forward to a successful GRCon and Proceedings publication!
 
