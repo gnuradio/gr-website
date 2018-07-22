@@ -7,7 +7,7 @@ The process was announced on [February 5, 2018](https://lists.gnu.org/archive/ht
 
 Subject: [Discuss-gnuradio] Introducing the GREP process
 Date: Mon, 5 Feb 2018 12:42:19 +0100
-From: Martin Braun &lt;[[email&#160;protected]](/cdn-cgi/l/email-protection)&gt;
+From: Martin Braun &lt;martin@gnuradio.org&gt;
 
 Hi all,
 
