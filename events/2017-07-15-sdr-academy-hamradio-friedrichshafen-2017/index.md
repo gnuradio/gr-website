@@ -32,7 +32,7 @@ Submission Information<br />
 &#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;-<br />
 How to submit: Please send an abstract of approximately 250 words to:
 
-[[email&#160;protected]](/cdn-cgi/l/email-protection#ff8c9b8d9ebf9b9e8d9cd19b9a)
+sdra@darc.de
 
 Please include the following information:
 
@@ -84,5 +84,5 @@ Contact<br />
 For enquiries and paper submission details please do not hesitate to<br />
 contact us:
 
-Email: [[email&#160;protected]](/cdn-cgi/l/email-protection#750611071435111407165b1110)<br />
+Email: sdra@darc.de<br />
 Tel.: [+49.89.420956305-0](tel:%2B49.89.420956305-0)
