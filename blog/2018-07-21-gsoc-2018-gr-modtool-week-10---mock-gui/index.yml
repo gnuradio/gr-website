@@ -1,6 +1,6 @@
 author: Swapnil Negi
 date: '2018-07-21'
-description: !!python/str "GSoC 2018 gr-modtool - As planned for Week 10, I have created\
+description: "GSoC 2018 gr-modtool - As planned for Week 10, I have created\
   \ a mock GUI for the modtool. I have also added the commits from the branch yaml,\
   \ which contained the cli and core modules for the XML to YAML conversion, into\
   \ the branch swapnil_next\u200B. I have also condensed all the remaining work of\

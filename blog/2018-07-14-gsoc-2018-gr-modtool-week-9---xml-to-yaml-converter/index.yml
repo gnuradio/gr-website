@@ -1,6 +1,6 @@
 author: Swapnil Negi
 date: '2018-07-14'
-description: !!python/str "GSoC 2018 gr-modtool - As planned for Week 9, an XML to\
+description: "GSoC 2018 gr-modtool - As planned for Week 9, an XML to\
   \ YAML generator has been added to the modtool. A new CLI command, update, has been\
   \ added to the existing modtool commands that serves the purpose of conversion of\
   \ XML scripts to YAML scripts. The functionality can also be achieved through the\
