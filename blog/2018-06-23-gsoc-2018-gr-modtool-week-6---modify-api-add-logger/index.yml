@@ -1,11 +1,11 @@
 author: Swapnil Negi
 date: '2018-06-23'
-description: GSoC 2018 gr-modtool - As planned for Week 6, the modtool tests have
+description: As planned for Week 6, the modtool tests have
   been added in-tree and all the print statements have been replaced by the logger.
 full_title: gsoc-2018-gr-modtool-week-6---modify-api-add-logger
 parent_folder: 2018-06-23-gsoc-2018-gr-modtool-week-6---modify-api-add-logger
 sponsored: 0
 thumbnail: https://www.gnuradio.org/assets/imgs/gsoc.png
-title: Week 6 - Modify API, Add logger
+title: GSoC 2018 gr-modtool - Week 6 - Modify API, Add logger
 type: external
 url: https://grmodtool.wordpress.com/2018/06/23/week-6-modify-api-add-logger/

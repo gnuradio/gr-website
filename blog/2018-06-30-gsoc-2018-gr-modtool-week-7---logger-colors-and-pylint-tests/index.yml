@@ -1,12 +1,12 @@
 author: Swapnil Negi
 date: '2018-06-30'
-description: GSoC 2018 gr-modtool - As planned for week 7, the logger has been updated
+description: As planned for week 7, the logger has been updated
   with ANSI colors, the modtool tests have been updated with Pylint tests (currently
   errors only) and the issue with the rename module has been solved (PR has been submitted).
 full_title: gsoc-2018-gr-modtool-week-7---logger-colors-and-pylint-tests
 parent_folder: 2018-06-30-gsoc-2018-gr-modtool-week-7---logger-colors-and-pylint-tests
 sponsored: 0
 thumbnail: https://www.gnuradio.org/assets/imgs/gsoc.png
-title: Week 7 - Logger Colors and Pylint Tests
+title: GSoC 2018 gr-modtool - Week 7 - Logger Colors and Pylint Tests
 type: external
 url: https://grmodtool.wordpress.com/2018/06/30/week-7-logger-colors-and-pylint-tests/
