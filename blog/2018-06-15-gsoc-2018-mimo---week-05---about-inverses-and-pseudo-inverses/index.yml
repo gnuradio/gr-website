@@ -1,0 +1,13 @@
+author: Moritz Luca Schmid
+date: '2018-06-15'
+description: Last week, I implemented a V-BLAST encoder which demultiplexes a data
+  stream into M parallel streams that are simultaneously sent through the same channel.
+  This was a really simple task which granted us a data rate increase of factor M
+  without the need of a complex transmitter complexity.
+full_title: gsoc-2018-mimo---week-05---about-inverses-and-pseudo-inverses
+parent_folder: 2018-06-15-gsoc-2018-mimo---week-05---about-inverses-and-pseudo-inverses
+sponsored: 0
+thumbnail: https://mimognuradio.files.wordpress.com/2018/04/cropped-mimo_logo.png
+title: GSoC 2018 MIMO - Week 05 - About Inverses and Pseudo-Inverses
+type: external
+url: https://mimognuradio.wordpress.com/2018/06/15/week-05-about-inverses-and-pseudo-inverses/

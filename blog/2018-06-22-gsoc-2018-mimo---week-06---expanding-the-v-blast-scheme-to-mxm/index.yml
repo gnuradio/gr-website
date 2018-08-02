@@ -1,0 +1,16 @@
+author: Moritz Luca Schmid
+date: '2018-06-22'
+description: "I expanded the 2\xD72 V-BLAST zero-forcing scheme to a general\
+  \ MxM scheme. For a general MxM matrix, the inverse cannot be precalculated by hand\
+  \ as I did for the 1\xD71 and 2\xD72 scheme. The inversion of a possibly large channel\
+  \ matrix can quickly get a very complex problem which needs a lot of computation\
+  \ power, especially if it is recalculated frequently, for example each micro second\
+  \ when assuming a coherence time of 1\u03BCs and therefore a CSI update rate of\
+  \ 1MHz."
+full_title: gsoc-2018-mimo---week-06---expanding-the-v-blast-scheme-to-mxm
+parent_folder: 2018-06-22-gsoc-2018-mimo---week-06---expanding-the-v-blast-scheme-to-mxm
+sponsored: 0
+thumbnail: https://mimognuradio.files.wordpress.com/2018/04/cropped-mimo_logo.png
+title: GSoC 2018 MIMO - Week 06 - Expanding the V-BLAST scheme to MxM
+type: external
+url: https://mimognuradio.wordpress.com/2018/06/22/week-06-expanding-the-spatial-mux-to-mxm/
