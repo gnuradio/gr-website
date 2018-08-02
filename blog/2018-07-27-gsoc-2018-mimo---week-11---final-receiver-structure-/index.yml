@@ -1,0 +1,12 @@
+author: Moritz Luca Schmid
+date: '2018-07-27'
+description: After discussing the proposed MIMO-OFDM receiver structure (see post
+  of last week) with my mentors this week, we decided to do some major changes in
+  the structure of the receiver to meet some general requirements.
+full_title: gsoc-2018-mimo---week-11---final-receiver-structure-
+parent_folder: 2018-07-27-gsoc-2018-mimo---week-11---final-receiver-structure-
+sponsored: 0
+thumbnail: https://mimognuradio.files.wordpress.com/2018/04/cropped-mimo_logo.png
+title: 'GSoC 2018 MIMO - Week 11 - Final Receiver Structure '
+type: external
+url: https://mimognuradio.wordpress.com/2018/07/27/week-11-final-receiver-structure/

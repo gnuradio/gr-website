@@ -4,7 +4,7 @@ description: 'This week, I started with the last big milestone for this summer: 
   integration of the MIMO algorithms into an OFDM transceiver system.'
 full_title: gsoc-2018-mimo---week-07---mimo-ofdm
 parent_folder: 2018-06-29-gsoc-2018-mimo---week-07---mimo-ofdm
-sponsored: '0'
+sponsored: 0
 thumbnail: https://mimognuradio.files.wordpress.com/2018/04/cropped-mimo_logo.png
 title: GSoC 2018 MIMO - Week 07 - MIMO-OFDM
 type: external
