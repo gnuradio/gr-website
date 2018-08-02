@@ -1,0 +1,14 @@
+author: Swapnil Negi
+date: '2018-07-21'
+description: !!python/str "GSoC 2018 gr-modtool - As planned for Week 10, I have created\
+  \ a mock GUI for the modtool. I have also added the commits from the branch yaml,\
+  \ which contained the cli and core modules for the XML to YAML conversion, into\
+  \ the branch swapnil_next\u200B. I have also condensed all the remaining work of\
+  \ the other PRs into the main PR."
+full_title: gsoc-2018-gr-modtool-week-10---mock-gui
+parent_folder: 2018-07-21-gsoc-2018-gr-modtool-week-10---mock-gui
+sponsored: 0
+thumbnail: https://www.gnuradio.org/assets/imgs/gsoc.png
+title: Week 10 - Mock GUI
+type: external
+url: https://grmodtool.wordpress.com/2018/07/21/week-10-mock-gui/

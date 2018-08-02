@@ -1,0 +1,15 @@
+author: Swapnil Negi
+date: '2018-07-14'
+description: !!python/str "GSoC 2018 gr-modtool - As planned for Week 9, an XML to\
+  \ YAML generator has been added to the modtool. A new CLI command, update, has been\
+  \ added to the existing modtool commands that serves the purpose of conversion of\
+  \ XML scripts to YAML scripts. The functionality can also be achieved through the\
+  \ API class, ModToolUpdate. I would like to thank my mentors and H\xE5kon V\xE5\
+  gsether for helping me throughout."
+full_title: gsoc-2018-gr-modtool-week-9---xml-to-yaml-converter
+parent_folder: 2018-07-14-gsoc-2018-gr-modtool-week-9---xml-to-yaml-converter
+sponsored: 0
+thumbnail: https://www.gnuradio.org/assets/imgs/gsoc.png
+title: Week 9 - XML to YAML Converter
+type: external
+url: https://grmodtool.wordpress.com/2018/07/14/week-9-xml-to-yaml-converter/

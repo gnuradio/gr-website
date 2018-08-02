@@ -1,0 +1,12 @@
+author: Swapnil Negi
+date: '2018-07-06'
+description: GSoC 2018 gr-modtool - As planned for Week 8, YAML Generator has been
+  added to the ModTool and the basic grc_xml template has been replaced with the grc_yaml
+  template.
+full_title: gsoc-2018-gr-modtool-week-8---add-yaml-generator
+parent_folder: 2018-07-06-gsoc-2018-gr-modtool-week-8---add-yaml-generator
+sponsored: 0
+thumbnail: https://www.gnuradio.org/assets/imgs/gsoc.png
+title: Week 8 - Add YAML Generator
+type: external
+url: https://grmodtool.wordpress.com/2018/07/06/week-8-add-yaml-generator/
